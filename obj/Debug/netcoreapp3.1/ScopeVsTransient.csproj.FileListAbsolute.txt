@@ -1,0 +1,13 @@
+/Users/deebee/Documents/Repo/ScopeVsTransient/bin/Debug/netcoreapp3.1/ScopeVsTransient.deps.json
+/Users/deebee/Documents/Repo/ScopeVsTransient/bin/Debug/netcoreapp3.1/ScopeVsTransient.runtimeconfig.json
+/Users/deebee/Documents/Repo/ScopeVsTransient/bin/Debug/netcoreapp3.1/ScopeVsTransient.runtimeconfig.dev.json
+/Users/deebee/Documents/Repo/ScopeVsTransient/bin/Debug/netcoreapp3.1/ScopeVsTransient.dll
+/Users/deebee/Documents/Repo/ScopeVsTransient/bin/Debug/netcoreapp3.1/ScopeVsTransient.pdb
+/Users/deebee/Documents/Repo/ScopeVsTransient/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/deebee/Documents/Repo/ScopeVsTransient/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/deebee/Documents/Repo/ScopeVsTransient/obj/Debug/netcoreapp3.1/ScopeVsTransient.csprojAssemblyReference.cache
+/Users/deebee/Documents/Repo/ScopeVsTransient/obj/Debug/netcoreapp3.1/ScopeVsTransient.AssemblyInfoInputs.cache
+/Users/deebee/Documents/Repo/ScopeVsTransient/obj/Debug/netcoreapp3.1/ScopeVsTransient.AssemblyInfo.cs
+/Users/deebee/Documents/Repo/ScopeVsTransient/obj/Debug/netcoreapp3.1/ScopeVsTransient.csproj.CopyComplete
+/Users/deebee/Documents/Repo/ScopeVsTransient/obj/Debug/netcoreapp3.1/ScopeVsTransient.dll
+/Users/deebee/Documents/Repo/ScopeVsTransient/obj/Debug/netcoreapp3.1/ScopeVsTransient.pdb
